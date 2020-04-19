@@ -1,0 +1,10 @@
+{
+  "name": "@denkristoffer/alfred-workflows",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "alfred-dark-mode": "^2.0.0",
+    "alfred-npms": "^2.1.0"
+  }
+}
