@@ -5,6 +5,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "alfred-dark-mode": "^2.0.0",
+    "alfred-emoji": "^0.2.2",
+    "alfred-npm-versions": "^1.0.0",
     "alfred-npms": "^2.1.0"
   }
 }
