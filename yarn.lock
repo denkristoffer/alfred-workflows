@@ -74,14 +74,6 @@ alfred-npm-versions@^1.0.0:
     alfy "^0.8.0"
     pkg-versions "^1.1.0"
 
-alfred-npms@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/alfred-npms/-/alfred-npms-2.1.0.tgz#b7a927fea02436208201c0eff169878c59531f36"
-  integrity sha512-KX7sGZKiiSdFsoMG9D6uxlM7/nUWB6bL1eq/+uBvx1adbpn20/ETxP6VIfHmlqDGrL7eu5MlYb+WfWaDuOq0BA==
-  dependencies:
-    alfy "^0.8.0"
-    date-format "^2.0.0"
-
 alfy@0.8.0, alfy@^0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/alfy/-/alfy-0.8.0.tgz#e1fff17736abfea5150cbbf1964483f861bd2e4c"
@@ -306,11 +298,6 @@ currently-unhandled@^0.4.1:
   integrity sha1-mI3zP+qxke95mmE2nddsF635V+o=
   dependencies:
     array-find-index "^1.0.1"
-
-date-format@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/date-format/-/date-format-2.1.0.tgz#31d5b5ea211cf5fd764cd38baf9d033df7e125cf"
-  integrity sha512-bYQuGLeFxhkxNOF3rcMtiZxvCBAquGzZm6oWA1oZ0g2THUzivaRhv8uOhdr19LmoobSOLoIAxeUK2RdbM8IFTA==
 
 decode-uri-component@^0.2.0:
   version "0.2.0"
